@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="496" height="260" viewBox="0 0 496 260" role="img" aria-labelledby="title">
+  <title id="title">Container stacks</title>
+  <rect width="496" height="260" rx="22" fill="#101116" stroke="#343744" stroke-width="4"/>
+  <text x="30" y="58" fill="#ff7f41" font-family="Arial, sans-serif" font-size="30" font-weight="700">CONTAINERS</text>
+  <text x="30" y="100" fill="#d7dbe7" font-family="Arial, sans-serif" font-size="21">services + development stacks</text>
+  <text x="30" y="132" fill="#8e95a7" font-family="Arial, sans-serif" font-size="18">organized, documented, repeatable</text>
+  <rect x="30" y="174" width="112" height="8" rx="4" fill="#ff7f41"/><rect x="154" y="174" width="78" height="8" rx="4" fill="#9147a8"/>
+</svg>

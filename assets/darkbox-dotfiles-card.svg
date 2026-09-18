@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Omarchy Darkbox dotfiles</title>
+  <rect width="640" height="360" rx="24" fill="#181a22" stroke="#343744" stroke-width="4"/>
+  <rect x="24" y="24" width="592" height="36" rx="10" fill="#101116"/>
+  <circle cx="48" cy="42" r="6" fill="#fd3e6a"/><circle cx="70" cy="42" r="6" fill="#ff7f41"/><circle cx="92" cy="42" r="6" fill="#c8e967"/>
+  <text x="34" y="116" fill="#14b9b5" font-family="monospace" font-size="28">$</text>
+  <text x="62" y="116" fill="#d7dbe7" font-family="monospace" font-size="28">omarchy-darkbox-dotfiles</text>
+  <text x="34" y="166" fill="#c8e967" font-family="Arial, sans-serif" font-size="30" font-weight="700">A focused Linux desktop</text>
+  <text x="34" y="206" fill="#8e95a7" font-family="Arial, sans-serif" font-size="22">Hyprland  /  Ghostty  /  Yazi  /  Starship</text>
+  <rect x="34" y="264" width="170" height="8" rx="4" fill="#14b9b5"/><rect x="216" y="264" width="120" height="8" rx="4" fill="#c8e967"/><rect x="348" y="264" width="90" height="8" rx="4" fill="#9147a8"/>
+  <text x="34" y="316" fill="#8e95a7" font-family="monospace" font-size="18">EXPLORE THE SETUP →</text>
+</svg>

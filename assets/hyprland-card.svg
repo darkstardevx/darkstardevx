@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="496" height="260" viewBox="0 0 496 260" role="img" aria-labelledby="title">
+  <title id="title">Hyprland workflow</title>
+  <rect width="496" height="260" rx="22" fill="#101116" stroke="#343744" stroke-width="4"/>
+  <text x="30" y="58" fill="#14b9b5" font-family="Arial, sans-serif" font-size="30" font-weight="700">HYPRLAND</text>
+  <text x="30" y="94" fill="#d7dbe7" font-family="Arial, sans-serif" font-size="22">special workspaces</text>
+  <text x="30" y="126" fill="#8e95a7" font-family="Arial, sans-serif" font-size="18">dropdown terminal + app flows</text>
+  <rect x="30" y="174" width="112" height="8" rx="4" fill="#9147a8"/><rect x="154" y="174" width="78" height="8" rx="4" fill="#fd3e6a"/>
+</svg>

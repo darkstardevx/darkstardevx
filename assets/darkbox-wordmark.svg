@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Darkbox</title>
+  <desc id="desc">Darkbox Linux workflow</desc>
+  <rect width="720" height="180" rx="24" fill="#101116"/>
+  <rect x="26" y="26" width="128" height="128" rx="20" fill="#181a22" stroke="#343744" stroke-width="4"/>
+  <path d="M58 62h64v18H78v20h38v18H78v20h44v18H58z" fill="#14b9b5"/>
+  <circle cx="112" cy="72" r="7" fill="#c8e967"/>
+  <text x="184" y="108" fill="#d7dbe7" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="8">DARKBOX</text>
+  <rect x="188" y="128" width="270" height="5" rx="2" fill="#9147a8"/>
+  <rect x="466" y="128" width="86" height="5" rx="2" fill="#fd3e6a"/>
+  <rect x="560" y="128" width="54" height="5" rx="2" fill="#ff7f41"/>
+</svg>
