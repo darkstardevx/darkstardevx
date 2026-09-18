@@ -37,6 +37,28 @@
   <a href="https://github.com/darkstardevx/omarchy-darkbox-dotfiles/tree/main/Projects">Projects</a>
 </p>
 
+<h2 align="center">Selected public projects</h2>
+
+<p align="center">
+  <a href="https://github.com/darkstardevx/cyberplug"><strong>cyberplug</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/OmNote"><strong>OmNote</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/diagprint"><strong>diagprint</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/cyberterm"><strong>cyberterm</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/darkstardevx/cyberplug">Omarchy plugin manager</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/OmNote">Theme-aware GTK4 notepad</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/diagprint">Rust diagnostics framework</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/cyberterm">Scriptable Rust terminal</a>
+</p>
+
 <h2 align="center">Palette</h2>
 
 <p align="center">
