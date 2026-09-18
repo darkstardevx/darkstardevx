@@ -41,31 +41,24 @@
 
 <p align="center">
   <strong>Core &amp; platform</strong><br>
-  <a href="https://github.com/darkstardevx/cybercore">cybercore</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/cyberplug">cyberplug</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/apexdaemon">apexdaemon</a>
+  <a href="https://github.com/darkstardevx/cybercore"><img src="https://img.shields.io/badge/cybercore-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=9147A8" alt="cybercore"></a>
+  <a href="https://github.com/darkstardevx/cyberplug"><img src="https://img.shields.io/badge/cyberplug-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=14B9B5" alt="cyberplug"></a>
+  <a href="https://github.com/darkstardevx/apexdaemon"><img src="https://img.shields.io/badge/apexdaemon-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=FF7F41" alt="apexdaemon"></a>
 </p>
 
 <p align="center">
   <strong>Security &amp; networking</strong><br>
-  <a href="https://github.com/darkstardevx/wraithflow">wraithflow</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/cybermeta">cybermeta</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/vortexwall">vortexwall</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/ghostport">ghostport</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/gateflow">gateflow</a>
+  <a href="https://github.com/darkstardevx/wraithflow"><img src="https://img.shields.io/badge/wraithflow-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=FD3E6A" alt="wraithflow"></a>
+  <a href="https://github.com/darkstardevx/cybermeta"><img src="https://img.shields.io/badge/cybermeta-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=9147A8" alt="cybermeta"></a>
+  <a href="https://github.com/darkstardevx/vortexwall"><img src="https://img.shields.io/badge/vortexwall-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=FD3E6A" alt="vortexwall"></a>
+  <a href="https://github.com/darkstardevx/ghostport"><img src="https://img.shields.io/badge/ghostport-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=FF7F41" alt="ghostport"></a>
+  <a href="https://github.com/darkstardevx/gateflow"><img src="https://img.shields.io/badge/gateflow-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=14B9B5" alt="gateflow"></a>
 </p>
 
 <p align="center">
   <strong>Developer tools</strong><br>
-  <a href="https://github.com/darkstardevx/diagprint">diagprint</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/cyberterm">cyberterm</a>
+  <a href="https://github.com/darkstardevx/diagprint"><img src="https://img.shields.io/badge/diagprint-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=C8E967" alt="diagprint"></a>
+  <a href="https://github.com/darkstardevx/cyberterm"><img src="https://img.shields.io/badge/cyberterm-181A22?style=for-the-badge&amp;logo=github&amp;logoColor=14B9B5&amp;labelColor=14B9B5" alt="cyberterm"></a>
 </p>
 
 <p align="center">
