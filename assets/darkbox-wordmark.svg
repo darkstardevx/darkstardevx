@@ -1,12 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
-  <title id="title">Darkbox</title>
-  <desc id="desc">Darkbox Linux workflow</desc>
-  <rect width="720" height="180" rx="24" fill="#101116"/>
-  <rect x="26" y="26" width="128" height="128" rx="20" fill="#181a22" stroke="#343744" stroke-width="4"/>
-  <path d="M58 62h64v18H78v20h38v18H78v20h44v18H58z" fill="#14b9b5"/>
-  <circle cx="112" cy="72" r="7" fill="#c8e967"/>
-  <text x="184" y="108" fill="#d7dbe7" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="8">DARKBOX</text>
-  <rect x="188" y="128" width="270" height="5" rx="2" fill="#9147a8"/>
-  <rect x="466" y="128" width="86" height="5" rx="2" fill="#fd3e6a"/>
-  <rect x="560" y="128" width="54" height="5" rx="2" fill="#ff7f41"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="300" viewBox="0 0 1240 300" role="img" aria-labelledby="title desc">
+  <title id="title">DARKBOX // CYBERGRID</title>
+  <desc id="desc">Systems intelligence for the dark edge</desc>
+  <defs>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0" stop-color="#14B9B5"/>
+      <stop offset=".48" stop-color="#C8E967"/>
+      <stop offset="1" stop-color="#FD3E6A"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1240" height="300" rx="28" fill="#0E091D"/>
+  <path d="M0 238H1240M0 62H1240" stroke="#24183C" stroke-width="2"/>
+  <path d="M56 238L174 62M1066 238L1184 62" stroke="#9147A8" stroke-width="2" opacity=".55"/>
+  <rect x="46" y="46" width="208" height="208" rx="22" fill="#140D29" stroke="url(#neon)" stroke-width="5"/>
+  <path d="M88 82h122v30h-82v28h70v30h-70v32h84v30H88z" fill="url(#neon)" filter="url(#glow)"/>
+  <circle cx="196" cy="98" r="9" fill="#FD3E6A"/>
+  <text x="300" y="152" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="98" font-weight="700" letter-spacing="14">DARKBOX</text>
+  <text x="308" y="204" fill="#C8E967" font-family="monospace" font-size="26" letter-spacing="8">CYBERGRID / SYSTEMS INTELLIGENCE</text>
+  <rect x="304" y="230" width="620" height="7" rx="3" fill="url(#neon)"/>
 </svg>
