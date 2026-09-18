@@ -40,23 +40,38 @@
 <h2 align="center">Selected public projects</h2>
 
 <p align="center">
-  <a href="https://github.com/darkstardevx/cyberplug"><strong>cyberplug</strong></a>
+  <strong>Core &amp; platform</strong><br>
+  <a href="https://github.com/darkstardevx/cybercore">cybercore</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/OmNote"><strong>OmNote</strong></a>
+  <a href="https://github.com/darkstardevx/cyberplug">cyberplug</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/diagprint"><strong>diagprint</strong></a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/cyberterm"><strong>cyberterm</strong></a>
+  <a href="https://github.com/darkstardevx/apexdaemon">apexdaemon</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkstardevx/cyberplug">Omarchy plugin manager</a>
+  <strong>Security &amp; networking</strong><br>
+  <a href="https://github.com/darkstardevx/wraithflow">wraithflow</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/OmNote">Theme-aware GTK4 notepad</a>
+  <a href="https://github.com/darkstardevx/cybermeta">cybermeta</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/diagprint">Rust diagnostics framework</a>
+  <a href="https://github.com/darkstardevx/vortexwall">vortexwall</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/darkstardevx/cyberterm">Scriptable Rust terminal</a>
+  <a href="https://github.com/darkstardevx/ghostport">ghostport</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/gateflow">gateflow</a>
+</p>
+
+<p align="center">
+  <strong>Developer tools</strong><br>
+  <a href="https://github.com/darkstardevx/diagprint">diagprint</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/darkstardevx/cyberterm">cyberterm</a>
+</p>
+
+<p align="center">
+  <sub>
+    Systems intelligence &nbsp;·&nbsp; secure tooling &nbsp;·&nbsp; focused workflows
+  </sub>
 </p>
 
 <h2 align="center">Palette</h2>
