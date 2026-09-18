@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERGRID-0E091D?style=flat-square&amp;labelColor=0E091D&amp;color=C8E967" alt="Cybergrid">
-  <img src="https://img.shields.io/badge/RUST-0E091D?style=flat-square&amp;labelColor=0E091D&amp;color=FD3E6A" alt="Rust">
-  <img src="https://img.shields.io/badge/OMARCHY-0E091D?style=flat-square&amp;labelColor=0E091D&amp;color=14B9B5" alt="Omarchy">
-  <img src="https://img.shields.io/badge/SECURITY--FIRST-0E091D?style=flat-square&amp;labelColor=0E091D&amp;color=FF7F41" alt="Security first">
+  <img src="./assets/badges-top.svg" alt="CYBERGRID · RUST · OMARCHY · SECURITY-FIRST">
 </p>
 
 <h2 align="center">◆ The Cybercore systems framework</h2>
@@ -23,49 +20,28 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkstardevx/cybercore"><img src="https://img.shields.io/badge/CORE_SCHEMA-0E091D?style=flat-square&amp;labelColor=9147A8&amp;color=FFFFFF" alt="Core schema"></a>
-  <a href="https://github.com/darkstardevx/cybercore"><img src="https://img.shields.io/badge/TYPED_RUST-0E091D?style=flat-square&amp;labelColor=14B9B5&amp;color=FFFFFF" alt="Typed Rust"></a>
-  <a href="https://github.com/darkstardevx/cybercore"><img src="https://img.shields.io/badge/ZERO_DRIFT-0E091D?style=flat-square&amp;labelColor=C8E967&amp;color=0E091D" alt="Zero drift"></a>
+  <a href="https://github.com/darkstardevx/cybercore"><img src="./assets/badges-cybercore.svg" alt="CORE SCHEMA · TYPED RUST · ZERO DRIFT"></a>
 </p>
 
 <h2 align="center">◆ Public project matrix</h2>
 
 <p align="center">
-  <img src="./assets/matrix-core.svg" alt="Core, platform, and automation: cybercore, cyberplug, apexdaemon">
+  <img src="./assets/header-core.svg" alt="Core, platform, and automation">
 </p>
 
-<p align="center">
-  <sub>
-    <a href="https://github.com/darkstardevx/cybercore">cybercore</a> ·
-    <a href="https://github.com/darkstardevx/cyberplug">cyberplug</a> ·
-    <a href="https://github.com/darkstardevx/apexdaemon">apexdaemon</a>
-  </sub>
-</p>
+<p align="center"><a href="https://github.com/darkstardevx/cybercore"><img src="./assets/tile-cybercore.svg" width="216" height="108" alt="cybercore — Shared schemas, palette, design tokens"></a><a href="https://github.com/darkstardevx/cyberdeck"><img src="./assets/tile-cyberdeck.svg" width="216" height="108" alt="cyberdeck — Central tool hub, live status"></a><a href="https://github.com/darkstardevx/cyberplug"><img src="./assets/tile-cyberplug.svg" width="216" height="108" alt="cyberplug — Omarchy plugin distribution"></a><br /><a href="https://github.com/darkstardevx/apexdaemon"><img src="./assets/tile-apexdaemon.svg" width="216" height="108" alt="apexdaemon — Theme sync, fleet health, backup automation"></a></p>
 
 <p align="center">
-  <img src="./assets/matrix-security.svg" alt="Security, networking, and data control: wraithflow, cybermeta, vortexwall, ghostport, gateflow">
+  <img src="./assets/header-security.svg" alt="Security, networking, and data control">
 </p>
 
-<p align="center">
-  <sub>
-    <a href="https://github.com/darkstardevx/wraithflow">wraithflow</a> ·
-    <a href="https://github.com/darkstardevx/cybermeta">cybermeta</a> ·
-    <a href="https://github.com/darkstardevx/vortexwall">vortexwall</a> ·
-    <a href="https://github.com/darkstardevx/ghostport">ghostport</a> ·
-    <a href="https://github.com/darkstardevx/gateflow">gateflow</a>
-  </sub>
-</p>
+<p align="center"><a href="https://github.com/darkstardevx/wraithflow"><img src="./assets/tile-wraithflow.svg" width="216" height="108" alt="wraithflow — Config-driven TCP proxy pipelines"></a><a href="https://github.com/darkstardevx/cybermeta"><img src="./assets/tile-cybermeta.svg" width="216" height="108" alt="cybermeta — EXIF privacy workstation"></a><a href="https://github.com/darkstardevx/vortexwall"><img src="./assets/tile-vortexwall.svg" width="216" height="108" alt="vortexwall — Active-blackholing firewall"></a><br /><a href="https://github.com/darkstardevx/cybervault"><img src="./assets/tile-cybervault.svg" width="216" height="108" alt="cybervault — Encrypted secrets, Argon2id + ChaCha20"></a><a href="https://github.com/darkstardevx/ghostport"><img src="./assets/tile-ghostport.svg" width="216" height="108" alt="ghostport — Encrypted NAT traversal"></a><a href="https://github.com/darkstardevx/gateflow"><img src="./assets/tile-gateflow.svg" width="216" height="108" alt="gateflow — Gateway infrastructure"></a></p>
 
 <p align="center">
-  <img src="./assets/matrix-dev.svg" alt="Developer, observability, and operator tools: diagprint, cyberterm">
+  <img src="./assets/header-dev.svg" alt="Developer, observability, and operator tools">
 </p>
 
-<p align="center">
-  <sub>
-    <a href="https://github.com/darkstardevx/diagprint">diagprint</a> ·
-    <a href="https://github.com/darkstardevx/cyberterm">cyberterm</a>
-  </sub>
-</p>
+<p align="center"><a href="https://github.com/darkstardevx/diagprint"><img src="./assets/tile-diagprint.svg" width="216" height="108" alt="diagprint — Rust diagnostics lifecycle framework"></a><a href="https://github.com/darkstardevx/cyberterm"><img src="./assets/tile-cyberterm.svg" width="216" height="108" alt="cyberterm — Scriptable terminal emulator"></a></p>
 
 <h2 align="center">◆ CYBERGRID palette</h2>
 
