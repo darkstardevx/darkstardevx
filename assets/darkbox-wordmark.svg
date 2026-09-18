@@ -13,8 +13,8 @@
   <path d="M0 238H1240M0 62H1240" stroke="#24183C" stroke-width="2"/>
   <path d="M56 238L174 62M1066 238L1184 62" stroke="#9147A8" stroke-width="2" opacity=".55"/>
   <rect x="46" y="46" width="208" height="208" rx="22" fill="#140D29" stroke="url(#neon)" stroke-width="5"/>
-  <path d="M88 82h122v30h-82v28h70v30h-70v32h84v30H88z" fill="url(#neon)" filter="url(#glow)"/>
-  <circle cx="196" cy="98" r="9" fill="#FD3E6A"/>
+  <path d="M88 82L178 82L212 116L212 198L178 232L88 232Z" fill="url(#neon)" filter="url(#glow)"/>
+  <circle cx="200" cy="108" r="9" fill="#FD3E6A"/>
   <text x="300" y="152" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="98" font-weight="700" letter-spacing="14">DARKBOX</text>
   <text x="308" y="204" fill="#C8E967" font-family="monospace" font-size="26" letter-spacing="8">CYBERGRID / SYSTEMS INTELLIGENCE</text>
   <rect x="304" y="230" width="620" height="7" rx="3" fill="url(#neon)"/>

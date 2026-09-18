@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="364" viewBox="0 0 816 364" role="img" aria-labelledby="t d">
+<title id="t">CORE // PLATFORM // AUTOMATION</title><desc id="d">shared schemas · plugin distribution · fleet automation</desc>
+<defs>
+<linearGradient id="spoke" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14B9B5"/><stop offset="1" stop-color="#14B9B5" stop-opacity="0.15"/></linearGradient>
+<linearGradient id="hdrGrad" x1="0" x2="1"><stop offset="0" stop-color="#14B9B5"/><stop offset="1" stop-color="#9147A8"/></linearGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowSoft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/></feMerge></filter>
+</defs>
+<rect width="816" height="364" rx="20" fill="#0E091D"/>
+<path d="M18 44 V18 H44" stroke="#2A1E48" stroke-width="2" fill="none"/>
+<path d="M798 44 V18 H772" stroke="#2A1E48" stroke-width="2" fill="none"/>
+<path d="M18 320 V346 H44" stroke="#2A1E48" stroke-width="2" fill="none"/>
+<path d="M798 320 V346 H772" stroke="#2A1E48" stroke-width="2" fill="none"/>
+<rect x="181.76" y="62.0" width="452.48" height="52" rx="26" fill="#14B9B5" opacity="0.16" filter="url(#glowSoft)"/>
+<rect x="189.76" y="66.0" width="436.48" height="44" rx="22" fill="#1B1236" stroke="url(#hdrGrad)" stroke-width="2.5"/>
+<text x="408.0" y="86.0" fill="#F5F3FF" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" letter-spacing="2.5" text-anchor="middle">CORE // PLATFORM // AUTOMATION</text>
+<text x="408.0" y="104.0" fill="#8B7FB0" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="0.5" text-anchor="middle">shared schemas · plugin distribution · fleet automation</text>
+<path d="M364.1 110.0 L164.0 200" stroke="url(#spoke)" stroke-width="2.5" fill="none"/>
+<circle cx="164.0" cy="200" r="4" fill="#14B9B5"/>
+<rect x="56" y="200" width="216" height="108" rx="14" fill="#140D29" stroke="#2A1E48" stroke-width="2"/>
+<rect x="56" y="200" width="216" height="108" rx="14" fill="none" stroke="#14B9B5" stroke-width="1.4" opacity="0.55"/>
+<path d="M56 222 V200 H78" stroke="#14B9B5" stroke-width="2.5" fill="none" opacity="0.9"/>
+<text x="76" y="240" fill="#F5F3FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700" letter-spacing="0.5">cybercore</text>
+<text x="76" y="264" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">Shared schemas, palette,</text>
+<text x="76" y="282" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">design tokens</text>
+<path d="M408.0 110.0 L408.0 200" stroke="url(#spoke)" stroke-width="2.5" fill="none"/>
+<circle cx="408.0" cy="200" r="4" fill="#14B9B5"/>
+<rect x="300" y="200" width="216" height="108" rx="14" fill="#140D29" stroke="#2A1E48" stroke-width="2"/>
+<rect x="300" y="200" width="216" height="108" rx="14" fill="none" stroke="#14B9B5" stroke-width="1.4" opacity="0.55"/>
+<path d="M300 222 V200 H322" stroke="#14B9B5" stroke-width="2.5" fill="none" opacity="0.9"/>
+<text x="320" y="240" fill="#F5F3FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700" letter-spacing="0.5">cyberplug</text>
+<text x="320" y="264" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">Omarchy plugin</text>
+<text x="320" y="282" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">distribution</text>
+<path d="M451.9 110.0 L652.0 200" stroke="url(#spoke)" stroke-width="2.5" fill="none"/>
+<circle cx="652.0" cy="200" r="4" fill="#14B9B5"/>
+<rect x="544" y="200" width="216" height="108" rx="14" fill="#140D29" stroke="#2A1E48" stroke-width="2"/>
+<rect x="544" y="200" width="216" height="108" rx="14" fill="none" stroke="#14B9B5" stroke-width="1.4" opacity="0.55"/>
+<path d="M544 222 V200 H566" stroke="#14B9B5" stroke-width="2.5" fill="none" opacity="0.9"/>
+<text x="564" y="240" fill="#F5F3FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700" letter-spacing="0.5">apexdaemon</text>
+<text x="564" y="264" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">Theme sync, fleet health,</text>
+<text x="564" y="282" fill="#8B7FB0" font-family="Arial, sans-serif" font-size="12.5">backup automation</text>
+</svg>

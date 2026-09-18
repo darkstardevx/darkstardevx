@@ -30,41 +30,41 @@
 
 <h2 align="center">◆ Public project matrix</h2>
 
-<p align="center"><strong>CORE // PLATFORM // AUTOMATION</strong></p>
-
 <p align="center">
-  <a href="https://github.com/darkstardevx/cybercore"><img src="https://img.shields.io/badge/cybercore-0E091D?style=flat-square&amp;labelColor=9147A8&amp;color=FFFFFF" alt="cybercore"></a>
-  <a href="https://github.com/darkstardevx/cyberplug"><img src="https://img.shields.io/badge/cyberplug-0E091D?style=flat-square&amp;labelColor=14B9B5&amp;color=FFFFFF" alt="cyberplug"></a>
-  <a href="https://github.com/darkstardevx/apexdaemon"><img src="https://img.shields.io/badge/apexdaemon-0E091D?style=flat-square&amp;labelColor=FF7F41&amp;color=FFFFFF" alt="apexdaemon"></a>
+  <img src="./assets/matrix-core.svg" alt="Core, platform, and automation: cybercore, cyberplug, apexdaemon">
 </p>
 
 <p align="center">
-  <sub>Shared system definitions · Omarchy plugin distribution · theme sync, fleet health, security watch, and backup automation</sub>
-</p>
-
-<p align="center"><strong>SECURITY // NETWORKING // DATA CONTROL</strong></p>
-
-<p align="center">
-  <a href="https://github.com/darkstardevx/wraithflow"><img src="https://img.shields.io/badge/wraithflow-0E091D?style=flat-square&amp;labelColor=FD3E6A&amp;color=FFFFFF" alt="wraithflow"></a>
-  <a href="https://github.com/darkstardevx/cybermeta"><img src="https://img.shields.io/badge/cybermeta-0E091D?style=flat-square&amp;labelColor=9147A8&amp;color=FFFFFF" alt="cybermeta"></a>
-  <a href="https://github.com/darkstardevx/vortexwall"><img src="https://img.shields.io/badge/vortexwall-0E091D?style=flat-square&amp;labelColor=FD3E6A&amp;color=FFFFFF" alt="vortexwall"></a>
-  <a href="https://github.com/darkstardevx/ghostport"><img src="https://img.shields.io/badge/ghostport-0E091D?style=flat-square&amp;labelColor=FF7F41&amp;color=FFFFFF" alt="ghostport"></a>
-  <a href="https://github.com/darkstardevx/gateflow"><img src="https://img.shields.io/badge/gateflow-0E091D?style=flat-square&amp;labelColor=14B9B5&amp;color=FFFFFF" alt="gateflow"></a>
+  <sub>
+    <a href="https://github.com/darkstardevx/cybercore">cybercore</a> ·
+    <a href="https://github.com/darkstardevx/cyberplug">cyberplug</a> ·
+    <a href="https://github.com/darkstardevx/apexdaemon">apexdaemon</a>
+  </sub>
 </p>
 
 <p align="center">
-  <sub>Config-driven TCP proxy pipelines · EXIF privacy workstation · active-blackholing firewall · encrypted NAT traversal · gateway infrastructure</sub>
-</p>
-
-<p align="center"><strong>DEVELOPER // OBSERVABILITY // OPERATOR TOOLS</strong></p>
-
-<p align="center">
-  <a href="https://github.com/darkstardevx/diagprint"><img src="https://img.shields.io/badge/diagprint-0E091D?style=flat-square&amp;labelColor=C8E967&amp;color=0E091D" alt="diagprint"></a>
-  <a href="https://github.com/darkstardevx/cyberterm"><img src="https://img.shields.io/badge/cyberterm-0E091D?style=flat-square&amp;labelColor=14B9B5&amp;color=FFFFFF" alt="cyberterm"></a>
+  <img src="./assets/matrix-security.svg" alt="Security, networking, and data control: wraithflow, cybermeta, vortexwall, ghostport, gateflow">
 </p>
 
 <p align="center">
-  <sub>Rust diagnostics lifecycle framework · scriptable terminal emulator built for deep customization</sub>
+  <sub>
+    <a href="https://github.com/darkstardevx/wraithflow">wraithflow</a> ·
+    <a href="https://github.com/darkstardevx/cybermeta">cybermeta</a> ·
+    <a href="https://github.com/darkstardevx/vortexwall">vortexwall</a> ·
+    <a href="https://github.com/darkstardevx/ghostport">ghostport</a> ·
+    <a href="https://github.com/darkstardevx/gateflow">gateflow</a>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="./assets/matrix-dev.svg" alt="Developer, observability, and operator tools: diagprint, cyberterm">
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/darkstardevx/diagprint">diagprint</a> ·
+    <a href="https://github.com/darkstardevx/cyberterm">cyberterm</a>
+  </sub>
 </p>
 
 <h2 align="center">◆ CYBERGRID palette</h2>
